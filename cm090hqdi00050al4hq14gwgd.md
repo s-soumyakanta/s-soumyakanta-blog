@@ -133,3 +133,5 @@ With this approach, the enum values are strings instead of integers. This method
 ### Conclusion
 
 While Go doesn't have native enum support, you can effectively implement enum-like functionality using constants and custom types. By following the best practices outlined in this guide, you'll be able to create clear, type-safe, and maintainable code.
+
+Happy coding!
