@@ -6,6 +6,7 @@ datePublished: Mon Nov 04 2024 06:38:09 GMT+0000 (Coordinated Universal Time)
 cuid: cm32nghkb000009me1olt86zt
 slug: how-to-set-up-shadcn-ui-with-nextjs-15-and-react-19
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1730702264086/19da48d6-4d1a-4f08-9d38-888222d1ca15.png
+tags: nextjs
 
 ---
 
